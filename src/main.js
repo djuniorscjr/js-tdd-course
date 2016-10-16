@@ -4,3 +4,4 @@ function opa(oi) {
   return oi;
 }
 
+opa(a);
